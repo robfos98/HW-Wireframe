@@ -1,0 +1,89 @@
+body{
+    font-family: Arial, 'Helvetica Neue', Helvetica, sans-serif;
+    color: #777;
+    background: #777;
+    width: 960px;
+    font-size: 18px;
+    box-sizing: border-box;
+}
+
+div, section{
+    background: #ebebeb
+}
+
+.box{
+    width: 495px;
+    height: 49px;
+}
+
+#header{
+    top: 10px;
+    position: absolute;
+    left: 90px
+}
+
+#nav{
+    top: 64px;
+    position: absolute;
+    left: 90px
+}
+
+section, #aside{
+    height: 185px
+}
+
+section{
+    width: 280px;
+    position: absolute;
+    top: 123px;
+    left: 90px
+}
+
+article{
+    color: #ebebeb;
+    background: #777;
+    width: 260px;
+    height: 123px;
+    position: absolute;
+    left: 10px;
+    bottom: 10px
+}
+
+.hp{
+    color: #777;
+    width: 230px;
+    height: 34px;
+    position: absolute;
+    left: 15px
+}
+
+#hph{
+    bottom: 54px
+}
+
+#hpp{
+    bottom: 15px
+}
+
+#aside{
+    width: 205px;
+    position: absolute;
+    top: 123px;
+    left: 380px
+}
+
+#footer{
+    position: absolute;
+    top: 318px;
+    left: 90px
+}
+
+h6{
+    position: relative;
+    top: -10px;
+    text-align: center;
+}
+
+.up{
+    top: -18px
+}
